@@ -21,10 +21,10 @@ Missing values are tagged with -200 value.
 11. PT08.S5 (indium oxide) hourly averaged sensor response (nominally O3 targeted) 
 12. Temperature in Â°C	
 13. Relative Humidity (%) 
-### Target variable
+## Target variable
 14. AH Absolute Humidity
 
-Used Recursive Feature Elimination for feature selection.
+#### Used Recursive Feature Elimination for feature selection.
 
 # Models used:
 1) Linear regression
