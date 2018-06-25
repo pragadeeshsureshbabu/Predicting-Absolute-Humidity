@@ -28,7 +28,10 @@ Missing values are tagged with -200 value.
 
 # Models used:
 1) Linear regression
+
       Error = 0.1183 (9 features used using cross validation)
+      
 2) Randome Forest Regression
+
       Error = 0.0143
       Error = 0.0295 (3 features used using cross validation)
